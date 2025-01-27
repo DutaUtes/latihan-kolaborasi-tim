@@ -1,2 +1,2 @@
-# latihan-kolaborasi-tim
-latihan kolaborasi team menggunakan 2 akun
+# Belajar Kolaborasi
+Belajar Github di Dicoding sangat menyenangkan!
